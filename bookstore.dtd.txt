@@ -1,0 +1,9 @@
+<!ELEMENT book(title, author, genre, year, edition, ISBN, publisher, price)>
+<!ELEMENT Title(#PCDATA)>
+<!ELEMENT Author(#PCDATA)>
+<!ELEMENT Genre(#PCDATA)>
+<!ELEMENT Year(#PCDATA)>
+<!ELEMENT Edition(#PCDATA)>
+<!ELEMENT ISBN(#PCDATA)>
+<!ELEMENT Publisher(#PCDATA)>
+<!ELEMENT Price(#PCDATA)>

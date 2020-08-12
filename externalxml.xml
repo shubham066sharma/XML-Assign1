@@ -1,0 +1,54 @@
+<?xml version=”1.0”?>
+<!DOCTYPE book SYSTEM “bookstore.dtd”>
+<bookstore>
+<book>
+ <Title>Berenstain Bears</Title>
+ <Author>STAN AND JAN BERENSTAIN</Author>
+ <Genre>Comedy</Genre>
+ <Year>1962-present</Year>
+ <Edition>Box edition(13 September 2016)</Edition>
+ <ISBN>978-0310761648</ISBN>
+ <Publisher>Zondervan</Publisher>
+ <Price>2121.00</Price>
+</book>
+<book>
+ <Title>Perry Mason</Title>
+ <Author>ERLE STANLEY GARDNER</Author>
+ <Genre>Mystery</Genre>
+ <Year>1933-1973</Year>
+ <Edition>Various edition(2012)</Edition>
+ <ISBN>978-9350263211</ISBN>
+ <Publisher>Vasan Publications</Publisher>
+ <Price>1500.00</Price>
+</book>
+<book>
+ <Title>Goosebumps</Title>
+ <Author>R.L.STINE</Author>
+ <Genre>Occult Fiction</Genre>
+ <Year>1992-present</Year>
+ <Edition>1 January 2011</Edition>
+ <ISBN>978-2010120718</ISBN>
+ <Publisher>Scholastic Incorporated</Publisher>
+ <Price>344.84</Price>
+</book>
+<book>
+ <Title>Harry Potter</Title>
+ <Author>J.K.ROWLING</Author>
+ <Genre>Fantasy fiction</Genre>
+ <Year>1997-2007</Year>
+ <Edition>Signature edition(2010)</Edition>
+ <ISBN>978-1408812525</ISBN>
+ <Publisher>Bloomsbury Publishing India Private Limited</Publisher>
+ <Price>999.00</Price>
+</book>
+<book>
+ <Title>Choose Your Own Adventure</Title>
+ <Author>VARIOUS AUTHORS</Author>
+ <Genre>Gamebook</Genre>
+ <Year>1979-1998</Year>
+ <Edition>5 December 2018</Edition>
+ <ISBN>978-1937133627</ISBN>
+ <Publisher>Chooseco</Publisher>
+ <Price>5000.00</Price>
+</book>
+</bookstore>
